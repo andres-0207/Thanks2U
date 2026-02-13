@@ -1,0 +1,8 @@
+{
+  "name": "Thanks2U",
+  "description": "A storytelling fundraising platform for university scholarships.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
